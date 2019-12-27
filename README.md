@@ -12,6 +12,7 @@ npm install
 ## Usage
 
 ```sh
+json-server --watch posts.json
 npm run start
 ```
 
