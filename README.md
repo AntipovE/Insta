@@ -7,7 +7,7 @@
 
 ```sh
 npm install
-```
+```asd
 asdfasdf## Usage
 фывфыв
 ```shфывяч
