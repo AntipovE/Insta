@@ -9,7 +9,7 @@ asd
 npm install
 ```asdasd
 asdfasdf## Usageasdasdasd
-фывфыв
+фывфывasdasd
 ```shфывячasdasd
 json-server --watch posts.json
 npm run start
