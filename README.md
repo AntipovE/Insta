@@ -9,8 +9,8 @@
 npm install
 ```
 asdfasdf## Usage
-
-```sh
+фывфыв
+```shфывяч
 json-server --watch posts.json
 npm run start
 ```
