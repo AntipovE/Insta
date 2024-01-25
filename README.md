@@ -8,8 +8,7 @@
 ```sh
 npm install
 ```
-asdasdasdasdasd
-## Usage
+asdfasdf## Usage
 
 ```sh
 json-server --watch posts.json
