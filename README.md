@@ -5,7 +5,7 @@
 
 ## Installasdasdasdasd
 asd
-```sh
+```shasd
 npm install
 ```asd
 asdfasdf## Usageasdasd
