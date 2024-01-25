@@ -2,15 +2,15 @@
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
 </p>
-
-## Install
-
-```sh
+asd
+## Installasdasdasdasd
+asd
+```shasd
 npm install
-```
-asdfasdf## Usage
-фывфыв
-```shфывяч
+```asdasd
+asdfasdf## Usageasdasdasd
+фывфывasdasd
+```shфывячasdasd
 json-server --watch posts.json
 npm run start
 ```
@@ -19,7 +19,7 @@ npm run start
 
 ```sh
 npm run test
-```
+```asd
 
 ## Author
 
