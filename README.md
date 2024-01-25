@@ -7,7 +7,7 @@
 asd
 ```shasd
 npm install
-```asd
+```asdasd
 asdfasdf## Usageasdasdasd
 фывфыв
 ```shфывячasdasd
