@@ -6,7 +6,7 @@
 ## Install
 
 ```sh
-npm installasdasd
+npm install
 ```
 asdasdasdasdasd
 ## Usage
